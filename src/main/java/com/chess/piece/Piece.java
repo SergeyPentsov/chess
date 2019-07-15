@@ -62,11 +62,11 @@ public abstract class Piece {
     }
 
     public enum Type {
-        KING,//король
-        QUEEN,//королева
-        BISHOP,//слон
-        KNIGHT,//конь
-        CASTLE,//ладья
-        PAWN//пешка
+        KING,
+        QUEEN,
+        BISHOP,
+        KNIGHT,
+        CASTLE,
+        PAWN
     }
 }
